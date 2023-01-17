@@ -15,7 +15,7 @@ function Dashboard(props) {
         </section>
         <section>
           <p>If you want to Edit the present users list kindly click the below button</p>
-          <p><button className='btn btn-primary mx-3' onClick={()=>{navigate('users')}} >Edit Users</button></p>
+          <p><button className='btn btn-primary mx-3' onClick={()=>{navigate('users')}} >Users List</button></p>
         </section>
       </div>
     </div>

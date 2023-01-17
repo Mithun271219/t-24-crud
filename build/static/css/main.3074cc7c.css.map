@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.3074cc7c.css","mappings":"AAIA,kBACE,iBACF,CAEA,OACE,gBACF","sources":["App.css"],"sourcesContent":["/* * {\n  border: 1px solid red;\n} */\n\n.create-container {\n  text-align: center;\n}\n\n.about {\n  text-indent: 50px;\n}"],"names":[],"sourceRoot":""}
